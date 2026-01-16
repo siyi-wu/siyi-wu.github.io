@@ -18,7 +18,7 @@ order: 5
         <td align="center"><a href="https://yuanbao.tencent.com/">元宝</a></td>
         <td align="center"><a href="https://www.kimi.com/">Kimi</a></td>
         <td align="center"><a href="https://www.doubao.com/">豆包</a></td>
-        <td align="center"><a href="https://claude.ai/">Claude</td>
+        <td align="center"><a href="https://claude.ai/">Claude</a></td>
         <td align="center"></td>
     </tr>
 </table>
